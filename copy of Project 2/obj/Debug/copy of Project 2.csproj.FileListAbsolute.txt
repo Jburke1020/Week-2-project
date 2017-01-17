@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\copy of Project 2\copy of Project 2\bin\Debug\copy of Project 2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\copy of Project 2\copy of Project 2\bin\Debug\copy of Project 2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\copy of Project 2\copy of Project 2\bin\Debug\copy of Project 2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\copy of Project 2\copy of Project 2\obj\Debug\copy of Project 2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\copy of Project 2\copy of Project 2\obj\Debug\copy of Project 2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\copy of Project 2\copy of Project 2\obj\Debug\copy of Project 2.csprojResolveAssemblyReference.cache
